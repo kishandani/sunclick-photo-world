@@ -69,7 +69,7 @@ const enquiryForm = document.getElementById("enquiryForm");
 // IMPORTANT: Replace this with your WhatsApp number.
 // Include the country code, digits only.
 // Example format for India: 919876543210
-const WHATSAPP_NUMBER = "91XXXXXXXXXX";
+const WHATSAPP_NUMBER = "918431311301";
 
 if (enquiryForm) {
     enquiryForm.addEventListener("submit", (event) => {
